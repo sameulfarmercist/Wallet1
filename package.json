@@ -1,0 +1,12 @@
+{
+  "name": "robinhood-recovery-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "viem": "^2.37.0"
+  }
+}
